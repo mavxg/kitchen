@@ -53,3 +53,27 @@ IMPORTANT: Internal width must be 562 or 568. This is not a range.
 12-17kg 4 hinges (2100 x 600)
 17-22kg 5 hinges (2400 x 600)
 
+
+## CNC  Projects (CAD)
+
+Rhino 7 -- this is the CAD tool they use. 
+
+-- IGES seems to be a nice format to use
+
+### 2D File (Ideally by layer and colour)
+
+RED OUTLINE
+BLUE INLINE
+GREEN - 4MM THROUGH HOLES
+...
+WHITE - V ENGRAVING 1MM DEEP
+
+
+
+Notes for future CAD work. Do not put dogbones on the modelled parts. Add them afterwards when making the CAM stuff. It might be that you don't want them at all.
+
+This would save a huge amount of time in modelling (and filesize.)
+
+
+
+
