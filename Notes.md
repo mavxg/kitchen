@@ -1,6 +1,31 @@
+# TODO
+
+[x] Adjust mortice tolerance on cubby
+[x] Check depths on uppers
+[x] Decide on 9 or 18 mm back on cabinet 2 (layout drawer bottoms)
+
+[ ] Layout drawer boxes (probably need 1 sheet of 9mm and 2 sheets fo 12mm)
+ -- We have some other stuff to cut out of 9 mm so if we have space on the 9mm
+    we should make the cabinet 2 back  out of 9 mm.
+
+[x] Reconsider shelf pins
+
+[x] Check under boiler boxing
+
+[ ] Change drawer unit widths as cabinet is 720 wide (not 700)
+
+[X] Get rid of filler strip on cab 12 (check door handle clearence first)
+
+[ ] Optional end panel for cab 16
+
+??? Do we want to adjust the end cabinet for no filler strip?
+
+[ ] Check all the gaps on the fronts
+
+
 ## Plywood
 
-### Wholesale price approx
+### Wholesale price approx (ex.VAT)
 
 24mm ~ £145
 18mm ~ £115
@@ -68,12 +93,29 @@ GREEN - 4MM THROUGH HOLES
 ...
 WHITE - V ENGRAVING 1MM DEEP
 
+Panel Cut
+
+/System/Library/Fonts/Supplemental/Arial Unicode.ttf
+
 
 
 Notes for future CAD work. Do not put dogbones on the modelled parts. Add them afterwards when making the CAM stuff. It might be that you don't want them at all.
 
-This would save a huge amount of time in modelling (and filesize.)
+This would save a huge amount of time in modelling (and filesize.) You can add the tolerances at this stage also.
 
 
+If you can use an 8MM cutter on 18MM material it can run in 2/3s the time since it needs fewer passes.
 
+
+# Phase 1 costs
+
+5 Sheets of 18mm Birch Ply bb/bb £560.40
+1 Sheet of 24mm Birch Ply bb/bb £154.50
+Programming £120
+CNC Machining of Parts £300
+Sheet Waste Recycling £9
+Delivery to SE3 £73.80
+
+
+560.40+154.50+120+300+9+73.80
 
