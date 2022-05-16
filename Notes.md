@@ -119,3 +119,33 @@ Delivery to SE3 £73.80
 
 560.40+154.50+120+300+9+73.80
 
+
+# Finishing
+
+## OSMO
+
+80 cross grain (if scratched)
+80 with grain (same pad)
+
+120 with grain
+180 with grains
+(Don't go more than 240 because it stops the oil soaking in.)
+
+Stir thoroughly.
+Apply OSMO thin with white scouring pad -- or it goes sticky
+Use another pad to wipe to a very thin coat.
+
+## Paint
+
+
+
+# Joining
+
+3.5 x 40 screws for drawers
+4x50 screws for 18mm edge
+
+
+
+# FreeCAD
+
+Why is the performance of the TechDraw and Shape 2D View functions so slow? How do you design a nice interface for that sort of thing when you consider visability?
